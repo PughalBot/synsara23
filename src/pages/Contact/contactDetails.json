@@ -1,0 +1,164 @@
+{
+    "staff": [{
+            "name": "Dr. B Priya",
+            "contactNumber": "+91 94875 68691"
+        },
+        {
+            "name": "Mrs. R Deepika",
+            "contactNumber": "+91 97916 81828"
+        },
+        {
+            "name": "Mrs. A Shali",
+            "contactNumber": "+91 91763 87776"
+        }
+
+    ],
+    "students": [{
+            "name": "Mr. Kamalraj M",
+            "contactNumber": "+91 99405 99249"
+        },
+        {
+            "name": "Mr. Shriram S",
+            "contactNumber": "+91 96596 11941"
+        },
+        {
+            "name": "Mr. Sai kaushik",
+            "contactNumber": "+91 95005 01136"
+        },
+        {
+            "name": "Ms. Thanuja B",
+            "contactNumber": "+91 63036 14525"
+        },
+        {
+            "name": "Ms. Rama Nanditha",
+            "contactNumber": "+91 70104 23908"
+        },
+        {
+            "name": "Ms. Padmaja",
+            "contactNumber": "+91 95661 75585"
+        }
+
+    ],
+    "WebsiteDevelopers":[{
+        "name": "Mr. Magesh K",
+        "contactNumber": "+91 7010828344"
+    },
+    { 
+        "name": "Mr. Harish PS",
+        "contactNumber": "+91 9778314918"
+    },
+    { 
+        "name": "Mr. Selvanarayanan A",
+        "contactNumber": "+91 7010828344"
+    },
+    { 
+        "name": "Mr. Youkesh G",
+        "contactNumber": "+91 7010677128"
+    },
+    { 
+        "name": "Mr. G Keertheshwaran",
+        "contactNumber": "+91 9500163394"
+    }
+],
+    "eventCoordinators": [{
+            "name": "Ms. Deepthi Sherly J",
+            "event": "Kode Git Fiesta(KGF)",
+            "contactNumber": "+91 70108 91749"
+        },
+        {
+            "name": "Mr. Karthikeyan P",
+            "event": "Kode Git Fiesta(KGF)",
+            "contactNumber": "+91 63833 79804"
+        },
+        {
+            "name": "Mr. Rupesh Kanna S ",
+            "event": "Unknown.fig",
+            "contactNumber": "+91 63746 63537"
+        },
+        {
+            "name": "Mr. Pughalesh L",
+            "event": "Unknown.fig",
+            "contactNumber": "+91 98404 57238"
+        },
+        {
+            "name": "Ms. Nivetha Thangaraj",
+            "event": "Playsment",
+            "contactNumber": "+91 73052 28393"
+        },
+        {
+            "name": "Ms. Brinda C",
+            "event": "Playsment",
+            "contactNumber": "+91 88254 94332"
+        },
+        {
+            "name": "Ms. Jayashree S",
+            "event": "Thegidi",
+            "contactNumber": "+91 73959 93505 "
+        },
+        {
+            "name": "Ms. Iswarya G",
+            "event": "Thegidi",
+            "contactNumber": "+91 84289 84718"
+        },
+        {
+            "name": "Ms. Kavya Keerthana M",
+            "event": "Ratatouille",
+            "contactNumber": "+91 97108 08800"
+        },
+        {
+            "name": "Ms. Srija G",
+            "event": "Ratatouille",
+            "contactNumber": "+91 97907 27464"
+        },
+        {
+            "name": "Mr. A Syed Abdul Azeem",
+            "event": " Let’s Nacho",
+            "contactNumber": "+91 98438 88072"
+        },
+        {
+            "name": "Ms. B Manicka Raghavi",
+            "event": " Let’s Nacho",
+            "contactNumber": "+91 89034 35959"
+        },
+        {
+            "name": "Mr. V Vanni Venkatesh",
+            "event": " The Legend",
+            "contactNumber": "+91 91502 48453"
+        },
+        {
+            "name": "Ms. M B Pooja Kumari",
+            "event": " The Legend",
+            "contactNumber": "+91 82201 65782"
+        },
+        {
+            "name": "Mr. Lohith Sumesh",
+            "event": "Headshot-Pubg",
+            "contactNumber": "+91 93603 27347"
+        },
+        {
+            "name": "Mr. Sridhar M",
+            "event": "Headshot-Pubg",
+            "contactNumber": "+91 63747 79719"
+        },
+        {
+            "name": "Mr. Kamalesh Kumar",
+            "event": "Headshot-Valorant",
+            "contactNumber": "+91 82484 64117"
+        },
+        {
+            "name": "Mr. Shyam Sundhar",
+            "event": "Headshot-Valorant",
+            "contactNumber": "+91 87545 51509"
+        },
+        {
+            "name": "Mr. Siddarth VS",
+            "event": "Code Red",
+            "contactNumber": "+91 73959 10570"
+        },
+        {
+            "name": "Ms. Swetha Lakshme S",
+            "event": "Code Red",
+            "contactNumber": "+91 94454 02826"
+        }
+    ]
+  }
